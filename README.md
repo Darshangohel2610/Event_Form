@@ -37,7 +37,7 @@ cd event-form
 npm install
 
 # Start the application
-npm start
+npm run dev
 📜 Usage
 1️⃣ Fill in the event title and description.
 2️⃣ Upload up to 5 images (JPEG/PNG) and add captions.
