@@ -6,7 +6,7 @@ import ClassicEditor from "@ckeditor/ckeditor5-build-classic";
 // import "../App.css";
 
 const editorConfiguration = {
-    licenseKey: 'eyJhbGciOiJFUzI1NiJ9.eyJleHAiOjE3NDA0NDE1OTksImp0aSI6IjJmOGE5YmZiLWU5MDYtNDQ0Yi1hNTQ2LTliMDA3NjY4OWQyYSIsInVzYWdlRW5kcG9pbnQiOiJodHRwczovL3Byb3h5LWV2ZW50LmNrZWRpdG9yLmNvbSIsImRpc3RyaWJ1dGlvbkNoYW5uZWwiOlsiY2xvdWQiLCJkcnVwYWwiLCJzaCJdLCJ3aGl0ZUxhYmVsIjp0cnVlLCJsaWNlbnNlVHlwZSI6InRyaWFsIiwiZmVhdHVyZXMiOlsiKiJdLCJ2YyI6Ijg0MTM4NDFkIn0.7_Fgb9EwlYjJdmiwzO6WI6a_3svSJqbrgHYmDVOowf2HDwk2POpkdhlgmM4tBOumuwG39FysZWe0nT2opOWj8g'
+    licenseKey: 'YOUR LICENSEKEY'
   };
 
 const EventFormSchema = Yup.object({
